@@ -1,0 +1,2 @@
+# Glotal
+Global Talents Library
